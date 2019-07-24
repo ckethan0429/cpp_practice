@@ -37,6 +37,7 @@
 		E938116222E85AA800184002 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E938116D22E85AFC00184002 /* pointer-basic */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "pointer-basic"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E938116F22E85AFC00184002 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E938117422E85CB100184002 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		E938115622E85AA800184002 = {
 			isa = PBXGroup;
 			children = (
+				E938117422E85CB100184002 /* .gitignore */,
 				E938116122E85AA800184002 /* Ch6 */,
 				E938116E22E85AFC00184002 /* pointer-basic */,
 				E938116022E85AA800184002 /* Products */,
